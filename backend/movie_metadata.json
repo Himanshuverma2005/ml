@@ -1,0 +1,560 @@
+[
+  {
+    "movie_title": "How to Train Your Dragon",
+    "year": 2010,
+    "genre": "Hollywood",
+    "description": "A young Viking befriends a dragon, challenging his village’s traditions."
+  },
+  {
+    "movie_title": "The Matrix",
+    "year": 1999,
+    "genre": "Hollywood",
+    "description": "A hacker discovers a simulated reality and joins a rebellion to free humanity."
+  },
+  {
+    "movie_title": "Joker",
+    "year": 2019,
+    "genre": "Hollywood",
+    "description": "A struggling comedian descends into madness, becoming a chaotic symbol of rebellion."
+  },
+  {
+    "movie_title": "Dangal",
+    "year": 2016,
+    "genre": "Bollywood",
+    "description": "A former wrestler trains his daughters to become world-class wrestling champions."
+  },
+  {
+    "movie_title": "The Curious Case of Benjamin Button",
+    "year": 2008,
+    "genre": "Hollywood",
+    "description": "A man ages backward, experiencing love and life in reverse."
+  },
+  {
+    "movie_title": "Inception",
+    "year": 2010,
+    "genre": "Hollywood",
+    "description": "A thief infiltrates dreams to steal secrets, facing a mind-bending heist."
+  },
+  {
+    "movie_title": "MS Dhoni",
+    "year": 2016,
+    "genre": "Bollywood",
+    "description": "A small-town cricketer rises to become India’s legendary cricket captain."
+  },
+  {
+    "movie_title": "The Lunchbox",
+    "year": 2013,
+    "genre": "Bollywood",
+    "description": "A mistaken lunch delivery sparks an unexpected connection between two strangers."
+  },
+  {
+    "movie_title": "La La Land",
+    "year": 2016,
+    "genre": "Hollywood",
+    "description": "An aspiring actress and a jazz musician chase dreams and love in Los Angeles."
+  },
+  {
+    "movie_title": "Spirited Away",
+    "year": 2001,
+    "genre": "Hollywood",
+    "description": "A young girl navigates a magical world to save her parents from a curse."
+  },
+  {
+    "movie_title": "The Menu",
+    "year": 2022,
+    "genre": "Hollywood",
+    "description": "A couple attends an exclusive dining experience that turns darkly surreal."
+  },
+  {
+    "movie_title": "Love Aaj Kal",
+    "year": 2009,
+    "genre": "Bollywood",
+    "description": "Modern and past love stories intertwine, exploring the complexities of romance."
+  },
+  {
+    "movie_title": "The Whale",
+    "year": 2022,
+    "genre": "Hollywood",
+    "description": "A reclusive teacher reconnects with his daughter while facing personal struggles."
+  },
+  {
+    "movie_title": "Dear Zindagi",
+    "year": 2016,
+    "genre": "Bollywood",
+    "description": "A young cinematographer learns to embrace life through therapy and personal connections."
+  },
+  {
+    "movie_title": "Iron Man",
+    "year": 2008,
+    "genre": "Hollywood",
+    "description": "A billionaire genius builds a high-tech suit to fight evil and redeem his past."
+  },
+  {
+    "movie_title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Hollywood",
+    "description": "A vigilante hero faces a chaotic criminal mastermind threatening Gotham."
+  },
+  {
+    "movie_title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Hollywood",
+    "description": "A man with a pure heart experiences decades of American history through love and chance."
+  },
+  {
+    "movie_title": "Student of the Year",
+    "year": 2012,
+    "genre": "Bollywood",
+    "description": "College rivals compete in a series of challenges, sparking friendships and romance."
+  },
+  {
+    "movie_title": "Kuch Kuch Hota Hai",
+    "year": 1998,
+    "genre": "Bollywood",
+    "description": "A widowers daughter schemes to reunite him with his college sweetheart."
+  },
+  {
+    "movie_title": "RRR",
+    "year": 2022,
+    "genre": "Bollywood",
+    "description": "Two Indian revolutionaries forge a bond to fight British colonial rule."
+  },
+  {
+    "movie_title": "A Beautiful Mind",
+    "year": 2001,
+    "genre": "Hollywood",
+    "description": "A brilliant mathematician battles schizophrenia while making groundbreaking contributions to game theory."
+  },
+  {
+    "movie_title": "Ek Tha Tiger",
+    "year": 2012,
+    "genre": "Bollywood",
+    "description": "An Indian spy falls in love while on a high-stakes mission against a rival agent."
+  },
+  {
+    "movie_title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": "Hollywood",
+    "description": "Superheroes unite to reverse a cosmic catastrophe and restore balance to the universe."
+  },
+  {
+    "movie_title": "Secret Superstar",
+    "year": 2017,
+    "genre": "Bollywood",
+    "description": "A teenage girl pursues her singing dreams under the constraints of a conservative family."
+  },
+  {
+    "movie_title": "Frozen",
+    "year": 2013,
+    "genre": "Hollywood",
+    "description": "A fearless princess embarks on a quest to save her kingdom from eternal winter."
+  },
+  {
+    "movie_title": "Slumdog Millionaire",
+    "year": 2008,
+    "genre": "Hollywood",
+    "description": "A Mumbai teens life flashes back as he answers questions on a game show."
+  },
+  {
+    "movie_title": "The Theory of Everything",
+    "year": 2014,
+    "genre": "Hollywood",
+    "description": "A physicists love story unfolds as he battles a debilitating disease."
+  },
+  {
+    "movie_title": "Knives Out",
+    "year": 2019,
+    "genre": "Hollywood",
+    "description": "A detective unravels a wealthy familys secrets after a patriarchs mysterious death."
+  },
+  {
+    "movie_title": "Jab We Met",
+    "year": 2007,
+    "genre": "Bollywood",
+    "description": "A chance train encounter sparks a transformative journey of love and self-discovery."
+  },
+  {
+    "movie_title": "Interstellar",
+    "year": 2014,
+    "genre": "Hollywood",
+    "description": "Astronauts travel through a wormhole to find a new home for humanity."
+  },
+  {
+    "movie_title": "Shutter Island",
+    "year": 2010,
+    "genre": "Hollywood",
+    "description": "A U.S. Marshal investigates a mysterious disappearance at a remote asylum."
+  },
+  {
+    "movie_title": "Soul",
+    "year": 2020,
+    "genre": "Hollywood",
+    "description": "A jazz musician’s soul embarks on a journey to find his lifes purpose."
+  },
+  {
+    "movie_title": "Encanto",
+    "year": 2021,
+    "genre": "Hollywood",
+    "description": "A young woman discovers her unique gift to save her familys magical legacy."
+  },
+  {
+    "movie_title": "The Flash",
+    "year": 2023,
+    "genre": "Hollywood",
+    "description": "A superhero races through time to alter the past, facing unforeseen consequences."
+  },
+  {
+    "movie_title": "1917",
+    "year": 2019,
+    "genre": "Hollywood",
+    "description": "Two soldiers undertake a perilous mission to deliver a critical message during WWI."
+  },
+  {
+    "movie_title": "Moana",
+    "year": 2016,
+    "genre": "Hollywood",
+    "description": "A young Polynesian girl sails across the ocean to save her island."
+  },
+  {
+    "movie_title": "Top Gun: Maverick",
+    "year": 2022,
+    "genre": "Hollywood",
+    "description": "A veteran pilot trains a new generation for a high-stakes mission."
+  },
+  {
+    "movie_title": "The King’s Speech",
+    "year": 2010,
+    "genre": "Hollywood",
+    "description": "A stuttering king overcomes his fears with help from an unorthodox therapist."
+  },
+  {
+    "movie_title": "Coco",
+    "year": 2017,
+    "genre": "Hollywood",
+    "description": "A boy ventures into the Land of the Dead to uncover his familys musical legacy."
+  },
+  {
+    "movie_title": "Veer-Zaara",
+    "year": 2004,
+    "genre": "Bollywood",
+    "description": "An Indian pilot and a Pakistani woman fight for their forbidden love."
+  },
+  {
+    "movie_title": "Aashiqui 2",
+    "year": 2013,
+    "genre": "Bollywood",
+    "description": "A fading singer mentors a talented young woman, leading to love and tragedy amidst fame."
+  },
+  {
+    "movie_title": "Manmarziyaan",
+    "year": 2018,
+    "genre": "Bollywood",
+    "description": "A free-spirited woman navigates a love triangle between passion and stability."
+  },
+  {
+    "movie_title": "The Social Network",
+    "year": 2010,
+    "genre": "Hollywood",
+    "description": "A college student creates a social media empire, facing betrayal and lawsuits."
+  },
+  {
+    "movie_title": "Life of Pi",
+    "year": 2012,
+    "genre": "Hollywood",
+    "description": "A young man survives a shipwreck, sharing a lifeboat with a Bengal tiger."
+  },
+  {
+    "movie_title": "Minions",
+    "year": 2015,
+    "genre": "Hollywood",
+    "description": "Mischievous yellow creatures serve a villain in a comedic quest for supremacy."
+  },
+  {
+    "movie_title": "Toy Story",
+    "year": 1995,
+    "genre": "Hollywood",
+    "description": "A cowboy doll and a space ranger toy team up to return to their owner."
+  },
+  {
+    "movie_title": "Schindler’s List",
+    "year": 1993,
+    "genre": "Hollywood",
+    "description": "A businessman saves Jewish refugees during the Holocaust by employing them."
+  },
+  {
+    "movie_title": "Don’t Look Up",
+    "year": 2021,
+    "genre": "Hollywood",
+    "description": "Astronomers struggle to warn the world about a comet on a collision course with Earth."
+  },
+  {
+    "movie_title": "Gully Boy",
+    "year": 2019,
+    "genre": "Bollywood",
+    "description": "A Mumbai slum dweller rises to fame as a rapper, defying societal constraints."
+  },
+  {
+    "movie_title": "Wake Up Sid",
+    "year": 2009,
+    "genre": "Bollywood",
+    "description": "A carefree college student discovers purpose and love through unexpected friendships."
+  },
+  {
+    "movie_title": "The Northman",
+    "year": 2022,
+    "genre": "Hollywood",
+    "description": "A Viking prince seeks vengeance for his father’s murder in a brutal saga."
+  },
+  {
+    "movie_title": "Kal Ho Naa Ho",
+    "year": 2003,
+    "genre": "Bollywood",
+    "description": "A terminally ill man secretly plays matchmaker for his friend and her neighbor."
+  },
+  {
+    "movie_title": "Taare Zameen Par",
+    "year": 2007,
+    "genre": "Bollywood",
+    "description": "A dyslexic child finds his potential through an inspiring art teacher."
+  },
+  {
+    "movie_title": "Ae Dil Hai Mushkil",
+    "year": 2016,
+    "genre": "Bollywood",
+    "description": "A tale of unrequited love and heartbreak unfolds among three friends."
+  },
+  {
+    "movie_title": "Zootopia",
+    "year": 2016,
+    "genre": "Hollywood",
+    "description": "A rookie bunny cop and a fox con artist solve a mystery in a vibrant animal city."
+  },
+  {
+    "movie_title": "Lagaan",
+    "year": 2001,
+    "genre": "Bollywood",
+    "description": "Villagers in colonial India bet their future on a cricket match against British rulers."
+  },
+  {
+    "movie_title": "Her",
+    "year": 2013,
+    "genre": "Hollywood",
+    "description": "A lonely writer develops an emotional relationship with an AI operating system."
+  },
+  {
+    "movie_title": "The Marvels",
+    "year": 2023,
+    "genre": "Hollywood",
+    "description": "Three superheroes team up to save the universe from a cosmic threat."
+  },
+  {
+    "movie_title": "Kesari",
+    "year": 2019,
+    "genre": "Bollywood",
+    "description": "A Sikh soldier leads a small unit in a heroic stand against overwhelming odds."
+  },
+  {
+    "movie_title": "The Prestige",
+    "year": 2006,
+    "genre": "Hollywood",
+    "description": "Rival magicians obsessively compete, spiraling into deception and tragedy."
+  },
+  {
+    "movie_title": "Bahubali",
+    "year": 2015,
+    "genre": "Bollywood",
+    "description": "A young warrior uncovers his royal heritage and battles to reclaim his kingdom."
+  },
+  {
+    "movie_title": "Jojo Rabbit",
+    "year": 2019,
+    "genre": "Hollywood",
+    "description": "A boy’s imaginary friend, a whimsical dictator, guides him through wartime absurdity."
+  },
+  {
+    "movie_title": "PK",
+    "year": 2014,
+    "genre": "Bollywood",
+    "description": "An alien stranded on Earth questions human beliefs while searching for answers."
+  },
+  {
+    "movie_title": "Mission: Impossible – Dead Reckoning",
+    "year": 2023,
+    "genre": "Hollywood",
+    "description": "A spy races to secure a dangerous technology threatening global security."
+  },
+  {
+    "movie_title": "The Pursuit of Happyness",
+    "year": 2006,
+    "genre": "Hollywood",
+    "description": "A struggling salesman perseveres to provide a better life for his son."
+  },
+  {
+    "movie_title": "Uri",
+    "year": 2019,
+    "genre": "Bollywood",
+    "description": "A soldier leads a covert operation to avenge a terrorist attack on Indian forces."
+  },
+  {
+    "movie_title": "Tamasha",
+    "year": 2015,
+    "genre": "Bollywood",
+    "description": "A free-spirited man and woman explore love and identity through storytelling."
+  },
+  {
+    "movie_title": "Dune: Part Two",
+    "year": 2024,
+    "genre": "Hollywood",
+    "description": "A young leader unites tribes to fight for control of a desert planet’s future."
+  },
+  {
+    "movie_title": "Your Name",
+    "year": 2016,
+    "genre": "Hollywood",
+    "description": "Two teenagers mysteriously swap bodies, uncovering a deeper connection."
+  },
+  {
+    "movie_title": "Chak De! India",
+    "year": 2007,
+    "genre": "Bollywood",
+    "description": "A disgraced hockey coach leads India’s women’s team to victory, overcoming prejudice."
+  },
+  {
+    "movie_title": "Rockstar",
+    "year": 2011,
+    "genre": "Bollywood",
+    "description": "A college student’s heartbreak fuels his rise to fame as a passionate musician."
+  },
+  {
+    "movie_title": "Hum Tum",
+    "year": 2004,
+    "genre": "Bollywood",
+    "description": "Two strangers evolve from rivals to lovers through chance encounters over years."
+  },
+  {
+    "movie_title": "Oppenheimer",
+    "year": 2023,
+    "genre": "Hollywood",
+    "description": "A physicist leads the development of the atomic bomb during World War II."
+  },
+  {
+    "movie_title": "Good Will Hunting",
+    "year": 1997,
+    "genre": "Hollywood",
+    "description": "A troubled genius janitor finds purpose through therapy and mentorship."
+  },
+  {
+    "movie_title": "3 Idiots (Tamil Dubbed)",
+    "year": 2009,
+    "genre": "Bollywood",
+    "description": "Three college friends navigate academic pressures and personal dreams in a journey of self-discovery."
+  },
+  {
+    "movie_title": "The Revenant",
+    "year": 2015,
+    "genre": "Hollywood",
+    "description": "A frontiersman seeks survival and revenge after a brutal bear attack."
+  },
+  {
+    "movie_title": "Badhaai Ho",
+    "year": 2018,
+    "genre": "Bollywood",
+    "description": "A middle-aged couple faces societal shock when they unexpectedly become pregnant."
+  },
+  {
+    "movie_title": "Tenet",
+    "year": 2020,
+    "genre": "Hollywood",
+    "description": "A secret agent manipulates time to prevent a catastrophic global event."
+  },
+  {
+    "movie_title": "The Godfather",
+    "year": 1972,
+    "genre": "Hollywood",
+    "description": "A mafia patriarch passes power to his reluctant son amid family and rivalry."
+  },
+  {
+    "movie_title": "The Boy and the Heron",
+    "year": 2023,
+    "genre": "Hollywood",
+    "description": "A boy embarks on a fantastical journey to cope with grief and loss."
+  },
+  {
+    "movie_title": "Highway",
+    "year": 2014,
+    "genre": "Bollywood",
+    "description": "A kidnapped woman finds freedom and self-discovery during a road trip with her captor."
+  },
+  {
+    "movie_title": "Yeh Jawaani Hai Deewani",
+    "year": 2013,
+    "genre": "Bollywood",
+    "description": "A carefree man reconnects with an old flame, rekindling dreams and romance."
+  },
+  {
+    "movie_title": "Barbie",
+    "year": 2023,
+    "genre": "Hollywood",
+    "description": "A doll embarks on a whimsical journey from her perfect world to the real one, discovering identity and purpose."
+  },
+  {
+    "movie_title": "Kabir Singh",
+    "year": 2019,
+    "genre": "Bollywood",
+    "description": "A brilliant but volatile surgeon spirals into self-destruction after a failed romance."
+  },
+  {
+    "movie_title": "3 Idiots",
+    "year": 2009,
+    "genre": "Bollywood",
+    "description": "Three college friends navigate academic pressures and personal dreams in a journey of self-discovery."
+  },
+  {
+    "movie_title": "Tanu Weds Manu",
+    "year": 2011,
+    "genre": "Bollywood",
+    "description": "A shy doctor falls for a rebellious woman in an unexpected arranged marriage."
+  },
+  {
+    "movie_title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Hollywood",
+    "description": "A wrongly convicted man forms a bond with a fellow inmate, holding onto hope."
+  },
+  {
+    "movie_title": "Raazi",
+    "year": 2018,
+    "genre": "Bollywood",
+    "description": "A young Indian woman becomes a spy in Pakistan during a tense conflict."
+  },
+  {
+    "movie_title": "Dune: Part One",
+    "year": 2021,
+    "genre": "Hollywood",
+    "description": "A young noble navigates a desert planet’s dangers to secure a valuable resource."
+  },
+  {
+    "movie_title": "Titanic",
+    "year": 1997,
+    "genre": "Hollywood",
+    "description": "A romance blossoms aboard a doomed ship, leading to tragedy and sacrifice."
+  },
+  {
+    "movie_title": "The Truman Show",
+    "year": 1998,
+    "genre": "Hollywood",
+    "description": "A man discovers his life is a staged reality show watched by millions."
+  },
+  {
+    "movie_title": "The Lion King",
+    "year": 1994,
+    "genre": "Hollywood",
+    "description": "A young lion prince reclaims his throne after tragedy and betrayal."
+  },
+  {
+    "movie_title": "Whiplash",
+    "year": 2014,
+    "genre": "Hollywood",
+    "description": "A young drummer pushes his limits under a relentless music instructor."
+  }
+]

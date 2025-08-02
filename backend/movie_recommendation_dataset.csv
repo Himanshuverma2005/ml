@@ -1,0 +1,416 @@
+movie_title,mood,weather,day,year,genre,description
+How to Train Your Dragon,Romantic,Sunny,Weekend,2010,Hollywood,A young Viking befriends a dragon, challenging his village’s traditions.
+The Matrix,Happy,Snowy,Weekend,1999,Hollywood,A hacker discovers a simulated reality and joins a rebellion to free humanity.
+Joker,Romantic,Rainy,Weekday,2019,Hollywood,A struggling comedian descends into madness, becoming a chaotic symbol of rebellion.
+Dangal,Melancholic,Cloudy,Weekend,2016,Bollywood,A former wrestler trains his daughters to become world-class wrestling champions.
+The Curious Case of Benjamin Button,Adventurous,Sunny,Weekend,2008,Hollywood,A man ages backward, experiencing love and life in reverse.
+Inception,Happy,Rainy,Weekday,2010,Hollywood,A thief infiltrates dreams to steal secrets, facing a mind-bending heist.
+MS Dhoni,Excited,Rainy,Weekend,2016,Bollywood,A small-town cricketer rises to become India’s legendary cricket captain.
+The Lunchbox,Romantic,Cloudy,Weekend,2013,Bollywood,A mistaken lunch delivery sparks an unexpected connection between two strangers.
+La La Land,Relaxed,Cloudy,Weekend,2016,Hollywood,An aspiring actress and a jazz musician chase dreams and love in Los Angeles.
+Spirited Away,Relaxed,Sunny,Weekend,2001,Hollywood,A young girl navigates a magical world to save her parents from a curse.
+The Menu,Melancholic,Cloudy,Weekend,2022,Hollywood,A couple attends an exclusive dining experience that turns darkly surreal.
+The Matrix,Happy,Cloudy,Weekend,1999,Hollywood,A hacker discovers a simulated reality and joins a rebellion to free humanity.
+Love Aaj Kal,Excited,Snowy,Weekend,2009,Bollywood,Modern and past love stories intertwine, exploring the complexities of romance.
+The Whale,Excited,Rainy,Weekday,2022,Hollywood,A reclusive teacher reconnects with his daughter while facing personal struggles.
+Dear Zindagi,Excited,Snowy,Weekend,2016,Bollywood,A young cinematographer learns to embrace life through therapy and personal connections.
+Iron Man,Melancholic,Cloudy,Weekday,2008,Hollywood,A billionaire genius builds a high-tech suit to fight evil and redeem his past.
+Drishyam,Adventurous,Cloudy,Weekday,2015,Bollywood,A man goes to extreme lengths to protect his family after an accidental crime.
+The Dark Knight,Melancholic,Sunny,Weekday,2008,Hollywood,A vigilante hero faces a chaotic criminal mastermind threatening Gotham.
+Forrest Gump,Romantic,Rainy,Weekday,1994,Hollywood,A man with a pure heart experiences decades of American history through love and chance.
+Student of the Year,Adventurous,Sunny,Weekend,2012,Bollywood,College rivals compete in a series of challenges, sparking friendships and romance.
+The Curious Case of Benjamin Button,Melancholic,Rainy,Weekend,2008,Hollywood,A man ages backward, experiencing love and life in reverse.
+Kuch Kuch Hota Hai,Melancholic,Cloudy,Weekend,1998,Bollywood,A widowers daughter schemes to reunite him with his college sweetheart.
+RRR,Romantic,Rainy,Weekend,2022,Bollywood,Two Indian revolutionaries forge a bond to fight British colonial rule.
+A Beautiful Mind,Happy,Sunny,Weekend,2001,Hollywood,A brilliant mathematician battles schizophrenia while making groundbreaking contributions to game theory.
+Ek Tha Tiger,Adventurous,Sunny,Weekend,2012,Bollywood,An Indian spy falls in love while on a high-stakes mission against a rival agent.
+Avengers: Endgame,Happy,Snowy,Weekend,2019,Hollywood,Superheroes unite to reverse a cosmic catastrophe and restore balance to the universe.
+Love Aaj Kal,Romantic,Sunny,Weekday,2009,Bollywood,Modern and past love stories intertwine, exploring the complexities of romance.
+Secret Superstar,Relaxed,Rainy,Weekend,2017,Bollywood,A teenage girl pursues her singing dreams under the constraints of a conservative family.
+Dear Zindagi,Adventurous,Rainy,Weekday,2016,Bollywood,A young cinematographer learns to embrace life through therapy and personal connections.
+The Matrix,Happy,Sunny,Weekend,1999,Hollywood,A hacker discovers a simulated reality and joins a rebellion to free humanity.
+Frozen,Romantic,Rainy,Weekend,2013,Hollywood,A fearless princess embarks on a quest to save her kingdom from eternal winter.
+Slumdog Millionaire,Romantic,Sunny,Weekday,2008,Hollywood,A Mumbai teens life flashes back as he answers questions on a game show.
+A Beautiful Mind,Relaxed,Sunny,Weekend,2001,Hollywood,A brilliant mathematician battles schizophrenia while making groundbreaking contributions to game theory.
+The Theory of Everything,Relaxed,Snowy,Weekday,2014,Hollywood,A physicists love story unfolds as he battles a debilitating disease.
+Knives Out,Relaxed,Rainy,Weekday,2019,Hollywood,A detective unravels a wealthy familys secrets after a patriarchs mysterious death.
+The Secret Life of Walter Mitty,Relaxed,Cloudy,Weekday,2013,Hollywood,A daydreamer embarks on a real-life adventure to find a missing photograph.
+Jab We Met,Excited,Cloudy,Weekday,2007,Bollywood,A chance train encounter sparks a transformative journey of love and self-discovery.
+Dear Zindagi,Melancholic,Sunny,Weekend,2016,Bollywood,A young cinematographer learns to embrace life through therapy and personal connections.
+Interstellar,Excited,Snowy,Weekend,2014,Hollywood,Astronauts travel through a wormhole to find a new home for humanity.
+Kuch Kuch Hota Hai,Romantic,Rainy,Weekend,1998,Bollywood,A widower’s daughter schemes to reunite him with his college sweetheart.
+The Curious Case of Benjamin Button,Excited,Snowy,Weekday,2008,Hollywood,A man ages backward, experiencing love and life in reverse.
+The Lunchbox,Relaxed,Sunny,Weekday,2013,Bollywood,A mistaken lunch delivery sparks an unexpected connection between two strangers.
+Shutter Island,Adventurous,Rainy,Weekday,2010,Hollywood,A U.S. Marshal investigates a mysterious disappearance at a remote asylum.
+Soul,Relaxed,Cloudy,Weekday,2020,Hollywood,A jazz musician’s soul embarks on a journey to find his lifes purpose.
+The Curious Case of Benjamin Button,Excited,Cloudy,Weekday,2008,Hollywood,A man ages backward, experiencing love and life in reverse.
+A Beautiful Mind,Excited,Snowy,Weekday,2001,Hollywood,A brilliant mathematician battles schizophrenia while making groundbreaking contributions to game theory.
+Encanto,Relaxed,Sunny,Weekend,2021,Hollywood,A young woman discovers her unique gift to save her familys magical legacy.
+The Flash,Romantic,Rainy,Weekday,2023,Hollywood,A superhero races through time to alter the past, facing unforeseen consequences.
+1917,Happy,Snowy,Weekday,2019,Hollywood,Two soldiers undertake a perilous mission to deliver a critical message during WWI.
+Moana,Adventurous,Snowy,Weekend,2016,Hollywood,A young Polynesian girl sails across the ocean to save her island.
+Top Gun: Maverick,Melancholic,Sunny,Weekday,2022,Hollywood,A veteran pilot trains a new generation for a high-stakes mission.
+The Whale,Happy,Snowy,Weekend,2022,Hollywood,A reclusive teacher reconnects with his daughter while facing personal struggles.
+How to Train Your Dragon,Melancholic,Cloudy,Weekday,2010,Hollywood,A young Viking befriends a dragon, challenging his village’s traditions.
+The King’s Speech,Happy,Cloudy,Weekday,2010,Hollywood,A stuttering king overcomes his fears with help from an unorthodox therapist.
+Shutter Island,Relaxed,Snowy,Weekday,2010,Hollywood,A U.S. Marshal investigates a mysterious disappearance at a remote asylum.
+Coco,Relaxed,Rainy,Weekend,2017,Hollywood,A boy ventures into the Land of the Dead to uncover his familys musical legacy.
+Veer-Zaara,Adventurous,Cloudy,Weekday,2004,Bollywood,An Indian pilot and a Pakistani woman fight for their forbidden love.
+Aashiqui 2,Relaxed,Sunny,Weekday,2013,Bollywood,A fading singer mentors a talented young woman, leading to love and tragedy amidst fame.
+Secret Superstar,Melancholic,Cloudy,Weekday,2017,Bollywood,A teenage girl pursues her singing dreams under the constraints of a conservative family.
+Manmarziyaan,Melancholic,Sunny,Weekday,2018,Bollywood,A free-spirited woman navigates a love triangle between passion and stability.
+The Social Network,Romantic,Snowy,Weekend,2010,Hollywood,A college student creates a social media empire, facing betrayal and lawsuits.
+Life of Pi,Happy,Sunny,Weekend,2012,Hollywood,A young man survives a shipwreck, sharing a lifeboat with a Bengal tiger.
+Minions,Melancholic,Snowy,Weekday,2015,Hollywood,Mischievous yellow creatures serve a villain in a comedic quest for supremacy.
+Toy Story,Romantic,Cloudy,Weekday,1995,Hollywood,A cowboy doll and a space ranger toy team up to return to their owner.
+Spirited Away,Excited,Rainy,Weekend,2001,Hollywood,A young girl navigates a magical world to save her parents from a curse.
+Soul,Happy,Sunny,Weekend,2020,Hollywood,A jazz musician’s soul embarks on a journey to find his lifes purpose.
+Schindler’s List,Excited,Rainy,Weekend,1993,Hollywood,A businessman saves Jewish refugees during the Holocaust by employing them.
+Minions,Relaxed,Cloudy,Weekday,2015,Hollywood,Mischievous yellow creatures serve a villain in a comedic quest for supremacy.
+The Dark Knight,Melancholic,Rainy,Weekend,2008,Hollywood,A vigilante hero faces a chaotic criminal mastermind threatening Gotham.
+The Whale,Happy,Snowy,Weekend,2022,Hollywood,A reclusive teacher reconnects with his daughter while facing personal struggles.
+Don’t Look Up,Relaxed,Snowy,Weekday,2021,Hollywood,Astronomers struggle to warn the world about a comet on a collision course with Earth.
+Minions,Relaxed,Snowy,Weekday,2015,Hollywood,Mischievous yellow creatures serve a villain in a comedic quest for supremacy.
+1917,Romantic,Snowy,Weekend,2019,Hollywood,Two soldiers undertake a perilous mission to deliver a critical message during WWI.
+Article 15,Adventurous,Cloudy,Weekday,2019,Bollywood,A police officer confronts caste-based discrimination while investigating a crime in rural India.
+Gully Boy,Melancholic,Cloudy,Weekday,2019,Bollywood,A Mumbai slum dweller rises to fame as a rapper, defying societal constraints.
+Wake Up Sid,Romantic,Rainy,Weekend,2009,Bollywood,A carefree college student discovers purpose and love through unexpected friendships.
+Wake Up Sid,Melancholic,Snowy,Weekend,2009,Bollywood,A carefree college student discovers purpose and love through unexpected friendships.
+The Northman,Relaxed,Cloudy,Weekday,2022,Hollywood,A Viking prince seeks vengeance for his father’s murder in a brutal saga.
+RRR,Melancholic,Cloudy,Weekday,2022,Bollywood,Two Indian revolutionaries forge a bond to fight British colonial rule.
+The Matrix,Excited,Snowy,Weekday,1999,Hollywood,A hacker discovers a simulated reality and joins a rebellion to free humanity.
+Interstellar,Relaxed,Snowy,Weekend,2014,Hollywood,Astronauts travel through a wormhole to find a new home for humanity.
+Kal Ho Naa Ho,Romantic,Rainy,Weekend,2003,Bollywood,A terminally ill man secretly plays matchmaker for his friend and her neighbor.
+Taare Zameen Par,Romantic,Snowy,Weekday,2007,Bollywood,A dyslexic child finds his potential through an inspiring art teacher.
+Ae Dil Hai Mushkil,Romantic,Snowy,Weekday,2016,Bollywood,A tale of unrequited love and heartbreak unfolds among three friends.
+How to Train Your Dragon,Happy,Rainy,Weekend,2010,Hollywood,A young Viking befriends a dragon, challenging his village’s traditions.
+Interstellar,Melancholic,Snowy,Weekday,2014,Hollywood,Astronauts travel through a wormhole to find a new home for humanity.
+Zootopia,Adventurous,Sunny,Weekend,2016,Hollywood,A rookie bunny cop and a fox con artist solve a mystery in a vibrant animal city.
+Ae Dil Hai Mushkil,Adventurous,Rainy,Weekday,2016,Bollywood,A tale of unrequited love and heartbreak unfolds among three friends.
+Taare Zameen Par,Melancholic,Rainy,Weekday,2007,Bollywood,A dyslexic child finds his potential through an inspiring art teacher.
+Lagaan,Excited,Cloudy,Weekday,2001,Bollywood,Villagers in colonial India bet their future on a cricket match against British rulers.
+How to Train Your Dragon,Melancholic,Rainy,Weekday,2010,Hollywood,A young Viking befriends a dragon, challenging his village’s traditions.
+Iron Man,Relaxed,Sunny,Weekday,2008,Hollywood,A billionaire genius builds a high-tech suit to fight evil and redeem his past.
+The Social Network,Excited,Snowy,Weekend,2010,Hollywood,A college student creates a social media empire, facing betrayal and lawsuits.
+Her,Romantic,Sunny,Weekend,2013,Hollywood,A lonely writer develops an emotional relationship with an AI operating system.
+Dangal,Melancholic,Cloudy,Weekday,2016,Bollywood,A former wrestler trains his daughters to become world-class wrestling champions.
+Frozen,Happy,Sunny,Weekend,2013,Hollywood,A fearless princess embarks on a quest to save her kingdom from eternal winter.
+The Matrix,Excited,Snowy,Weekend,1999,Hollywood,A hacker discovers a simulated reality and joins a rebellion to free humanity.
+The Marvels,Happy,Snowy,Weekday,2023,Hollywood,Three superheroes team up to save the universe from a cosmic threat.
+Inception,Excited,Cloudy,Weekday,2010,Hollywood,A thief infiltrates dreams to steal secrets, facing a mind-bending heist.
+Secret Superstar,Romantic,Cloudy,Weekend,2017,Bollywood,A teenage girl pursues her singing dreams under the constraints of a conservative family.
+Kesari,Melancholic,Snowy,Weekend,2019,Bollywood,A Sikh soldier leads a small unit in a heroic stand against overwhelming odds.
+The Menu,Romantic,Rainy,Weekday,2022,Hollywood,A couple attends an exclusive dining experience that turns darkly surreal.
+Schindler’s List,Adventurous,Rainy,Weekend,1993,Hollywood,A businessman saves Jewish refugees during the Holocaust by employing them.
+The Northman,Relaxed,Rainy,Weekend,2022,Hollywood,A Viking prince seeks vengeance for his fathers murder in a brutal saga.
+Toy Story,Adventurous,Sunny,Weekday,1995,Hollywood,A cowboy doll and a space ranger toy team up to return to their owner.
+The Prestige,Melancholic,Rainy,Weekday,2006,Hollywood,Rival magicians obsessively compete, spiraling into deception and tragedy.
+Life of Pi,Melancholic,Sunny,Weekday,2012,Hollywood,A young man survives a shipwreck, sharing a lifeboat with a Bengal tiger.
+Bahubali,Relaxed,Cloudy,Weekday,2015,Bollywood,A young warrior uncovers his royal heritage and battles to reclaim his kingdom.
+The Lunchbox,Adventurous,Snowy,Weekend,2013,Bollywood,A mistaken lunch delivery sparks an unexpected connection between two strangers.
+Forrest Gump,Relaxed,Rainy,Weekday,1994,Hollywood,A man with a pure heart experiences decades of American history through love and chance.
+Jojo Rabbit,Relaxed,Rainy,Weekend,2019,Hollywood,A boy’s imaginary friend, a whimsical dictator, guides him through wartime absurdity.
+Wake Up Sid,Happy,Snowy,Weekday,2009,Bollywood,A carefree college student discovers purpose and love through unexpected friendships.
+PK,Happy,Sunny,Weekday,2014,Bollywood,An alien stranded on Earth questions human beliefs while searching for answers.
+Ae Dil Hai Mushkil,Melancholic,Cloudy,Weekend,2016,Bollywood,A tale of unrequited love and heartbreak unfolds among three friends.
+Inception,Relaxed,Snowy,Weekend,2010,Hollywood,A thief infiltrates dreams to steal secrets, facing a mind-bending heist.
+Mission: Impossible – Dead Reckoning,Excited,Rainy,Weekday,2023,Hollywood,A spy races to secure a dangerous technology threatening global security.
+The Prestige,Relaxed,Snowy,Weekday,2006,Hollywood,Rival magicians obsessively compete, spiraling into deception and tragedy.
+Iron Man,Happy,Rainy,Weekday,2008,Hollywood,A billionaire genius builds a high-tech suit to fight evil and redeem his past.
+Life of Pi,Excited,Snowy,Weekday,2012,Hollywood,A young man survives a shipwreck, sharing a lifeboat with a Bengal tiger.
+MS Dhoni,Adventurous,Sunny,Weekend,2016,Bollywood,A small-town cricketer rises to become Indias legendary cricket captain.
+The Pursuit of Happyness,Melancholic,Rainy,Weekday,2006,Hollywood,A struggling salesman perseveres to provide a better life for his son.
+The Marvels,Adventurous,Rainy,Weekend,2023,Hollywood,Three superheroes team up to save the universe from a cosmic threat.
+MS Dhoni,Romantic,Rainy,Weekend,2016,Bollywood,A small-town cricketer rises to become India’s legendary cricket captain.
+Uri,Romantic,Rainy,Weekday,2019,Bollywood,A soldier leads a covert operation to avenge a terrorist attack on Indian forces.
+Tamasha,Adventurous,Rainy,Weekday,2015,Bollywood,A free-spirited man and woman explore love and identity through storytelling.
+The Pursuit of Happyness,Excited,Cloudy,Weekend,2006,Hollywood,A struggling salesman perseveres to provide a better life for his son.
+Slumdog Millionaire,Relaxed,Cloudy,Weekday,2008,Hollywood,A Mumbai teen’s life flashes back as he answers questions on a game show.
+RRR,Adventurous,Snowy,Weekday,2022,Bollywood,Two Indian revolutionaries forge a bond to fight British colonial rule.
+Jojo Rabbit,Happy,Sunny,Weekend,2019,Hollywood,A boy’s imaginary friend, a whimsical dictator, guides him through wartime absurdity.
+Inception,Relaxed,Snowy,Weekend,2010,Hollywood,A thief infiltrates dreams to steal secrets, facing a mind-bending heist.
+Dune: Part Two,Romantic,Sunny,Weekend,2024,Hollywood,A young leader unites tribes to fight for control of a desert planet’s future.
+Secret Superstar,Relaxed,Rainy,Weekend,2017,Bollywood,A teenage girl pursues her singing dreams under the constraints of a conservative family.
+Jab We Met,Adventurous,Cloudy,Weekday,2007,Bollywood,A chance train encounter sparks a transformative journey of love and self-discovery.
+The Whale,Melancholic,Sunny,Weekend,2022,Hollywood,A reclusive teacher reconnects with his daughter while facing personal struggles.
+Your Name,Melancholic,Snowy,Weekday,2016,Hollywood,Two teenagers mysteriously swap bodies, uncovering a deeper connection.
+Dangal,Melancholic,Snowy,Weekday,2016,Bollywood,A former wrestler trains his daughters to become world-class wrestling champions.
+Zootopia,Adventurous,Sunny,Weekday,2016,Hollywood,A rookie bunny cop and a fox con artist solve a mystery in a vibrant animal city.
+Chak De! India,Excited,Sunny,Weekend,2007,Bollywood,A disgraced hockey coach leads India’s women’s team to victory, overcoming prejudice.
+Top Gun: Maverick,Adventurous,Cloudy,Weekend,2022,Hollywood,A veteran pilot trains a new generation for a high-stakes mission.
+Joker,Relaxed,Snowy,Weekday,2019,Hollywood,A struggling comedian descends into madness, becoming a chaotic symbol of rebellion.
+Knives Out,Relaxed,Snowy,Weekday,2019,Hollywood,A detective unravels a wealthy family’s secrets after a patriarch’s mysterious death.
+PK,Excited,Rainy,Weekday,2014,Bollywood,An alien stranded on Earth questions human beliefs while searching for answers.
+Soul,Excited,Rainy,Weekend,2020,Hollywood,A jazz musician’s soul embarks on a journey to find his life’s purpose.
+Kal Ho Naa Ho,Excited,Rainy,Weekday,2003,Bollywood,A terminally ill man secretly plays matchmaker for his friend and her neighbor.
+Chak De! India,Adventurous,Sunny,Weekend,2007,Bollywood,A disgraced hockey coach leads India’s women’s team to victory, overcoming prejudice.
+Rockstar,Romantic,Sunny,Weekend,2011,Bollywood,A college student’s heartbreak fuels his rise to fame as a passionate musician.
+Hum Tum,Relaxed,Rainy,Weekday,2004,Bollywood,Two strangers evolve from rivals to lovers through chance encounters over years.
+Student of the Year,Adventurous,Cloudy,Weekend,2012,Bollywood,College rivals compete in a series of challenges, sparking friendships and romance.
+Oppenheimer,Romantic,Rainy,Weekday,2023,Hollywood,A physicist leads the development of the atomic bomb during World War II.
+Joker,Happy,Sunny,Weekday,2019,Hollywood,A struggling comedian descends into madness, becoming a chaotic symbol of rebellion.
+Kesari,Romantic,Cloudy,Weekend,2019,Bollywood,A Sikh soldier leads a small unit in a heroic stand against overwhelming odds.
+Good Will Hunting,Adventurous,Cloudy,Weekday,1997,Hollywood,A troubled genius janitor finds purpose through therapy and mentorship.
+3 Idiots (Tamil Dubbed),Happy,Sunny,Weekday,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+The Revenant,Excited,Snowy,Weekend,2015,Hollywood,A frontiersman seeks survival and revenge after a brutal bear attack.
+Knives Out,Happy,Snowy,Weekday,2019,Hollywood,A detective unravels a wealthy family’s secrets after a patriarch’s mysterious death.
+The Lunchbox,Romantic,Sunny,Weekend,2013,Bollywood,A mistaken lunch delivery sparks an unexpected connection between two strangers.
+The Imitation Game,Melancholic,Cloudy,Weekend,2014,Hollywood,A mathematician cracks a Nazi code during WWII, hiding his personal struggles.
+Badhaai Ho,Relaxed,Sunny,Weekday,2018,Bollywood,A middle-aged couple faces societal shock when they unexpectedly become pregnant.
+Soul,Melancholic,Cloudy,Weekend,2020,Hollywood,A jazz musician’s soul embarks on a journey to find his life’s purpose.
+Don’t Look Up,Adventurous,Sunny,Weekend,2021,Hollywood,Astronomers struggle to warn the world about a comet on a collision course with Earth.
+Top Gun: Maverick,Happy,Rainy,Weekday,2022,Hollywood,A veteran pilot trains a new generation for a high-stakes mission.
+Your Name,Melancholic,Rainy,Weekday,2016,Hollywood,Two teenagers mysteriously swap bodies, uncovering a deeper connection.
+The Theory of Everything,Adventurous,Snowy,Weekday,2014,Hollywood,A physicist’s love story unfolds as he battles a debilitating disease.
+Good Will Hunting,Happy,Sunny,Weekend,1997,Hollywood,A troubled genius janitor finds purpose through therapy and mentorship.
+Tamasha,Romantic,Rainy,Weekend,2015,Bollywood,A free-spirited man and woman explore love and identity through storytelling.
+Badhaai Ho,Happy,Cloudy,Weekday,2018,Bollywood,A middle-aged couple faces societal shock when they unexpectedly become pregnant.
+Tenet,Excited,Cloudy,Weekend,2020,Hollywood,A secret agent manipulates time to prevent a catastrophic global event.
+The Godfather,Adventurous,Rainy,Weekday,1972,Hollywood,A mafia patriarch passes power to his reluctant son amid family and rivalry.
+Love Aaj Kal,Melancholic,Sunny,Weekday,2009,Bollywood,Modern and past love stories intertwine, exploring the complexities of romance.
+Coco,Romantic,Cloudy,Weekday,2017,Hollywood,A boy ventures into the Land of the Dead to uncover his family’s musical legacy.
+Knives Out,Happy,Cloudy,Weekend,2019,Hollywood,A detective unravels a wealthy family’s secrets after a patriarch’s mysterious death.
+Top Gun: Maverick,Romantic,Rainy,Weekend,2022,Hollywood,A veteran pilot trains a new generation for a high-stakes mission.
+Veer-Zaara,Relaxed,Sunny,Weekday,2004,Bollywood,An Indian pilot and a Pakistani woman fight for their forbidden love.
+Coco,Excited,Snowy,Weekend,2017,Hollywood,A boy ventures into the Land of the Dead to uncover his family’s musical legacy.
+Hum Tum,Relaxed,Snowy,Weekend,2004,Bollywood,Two strangers evolve from rivals to lovers through chance encounters over years.
+The Boy and the Heron,Melancholic,Rainy,Weekday,2023,Hollywood,A boy embarks on a fantastical journey to cope with grief and loss.
+Spirited Away,Relaxed,Cloudy,Weekend,2001,Hollywood,A young girl navigates a magical world to save her parents from a curse.
+The Northman,Melancholic,Snowy,Weekend,2022,Hollywood,A Viking prince seeks vengeance for his father’s murder in a brutal saga.
+Highway,Relaxed,Rainy,Weekday,2014,Bollywood,A kidnapped woman finds freedom and self-discovery during a road trip with her captor.
+Ae Dil Hai Mushkil,Relaxed,Cloudy,Weekend,2016,Bollywood,A tale of unrequited love and heartbreak unfolds among three friends.
+Frozen,Happy,Snowy,Weekday,2013,Hollywood,A fearless princess embarks on a quest to save her kingdom from eternal winter.
+Yeh Jawaani Hai Deewani,Relaxed,Cloudy,Weekday,2013,Bollywood,A carefree man reconnects with an old flame, rekindling dreams and romance.
+Zootopia,Melancholic,Sunny,Weekend,2016,Hollywood,A rookie bunny cop and a fox con artist solve a mystery in a vibrant animal city.
+La La Land,Adventurous,Rainy,Weekday,2016,Hollywood,An aspiring actress and a jazz musician chase dreams and love in Los Angeles.
+Yeh Jawaani Hai Deewani,Romantic,Sunny,Weekend,2013,Bollywood,A carefree man reconnects with an old flame, rekindling dreams and romance.
+Barbie,Adventurous,Cloudy,Weekend,2023,Hollywood,A doll embarks on a whimsical journey from her perfect world to the real one, discovering identity and purpose.
+Knives Out,Relaxed,Rainy,Weekday,2019,Hollywood,A detective unravels a wealthy family’s secrets after a patriarch’s mysterious death.
+La La Land,Melancholic,Sunny,Weekend,2016,Hollywood,An aspiring actress and a jazz musician chase dreams and love in Los Angeles.
+Ek Tha Tiger,Melancholic,Cloudy,Weekend,2012,Bollywood,An Indian spy falls in love while on a high-stakes mission against a rival agent.
+Tamasha,Adventurous,Rainy,Weekend,2015,Bollywood,A free-spirited man and woman explore love and identity through storytelling.
+Manmarziyaan,Adventurous,Sunny,Weekend,2018,Bollywood,A free-spirited woman navigates a love triangle between passion and stability.
+Wake Up Sid,Happy,Sunny,Weekday,2009,Bollywood,A carefree college student discovers purpose and love through unexpected friendships.
+Life of Pi,Melancholic,Rainy,Weekday,2012,Hollywood,A young man survives a shipwreck, sharing a lifeboat with a Bengal tiger.
+Dear Zindagi,Happy,Cloudy,Weekday,2016,Bollywood,A young cinematographer learns to embrace life through therapy and personal connections.
+Knives Out,Melancholic,Cloudy,Weekend,2019,Hollywood,A detective unravels a wealthy family’s secrets after a patriarch’s mysterious death.
+Barbie,Romantic,Snowy,Weekday,2023,Hollywood,A doll embarks on a whimsical journey from her perfect world to the real one, discovering identity and purpose.
+Kabir Singh,Melancholic,Rainy,Weekend,2019,Bollywood,A brilliant but volatile surgeon spirals into self-destruction after a failed romance.
+Her,Adventurous,Sunny,Weekday,2013,Hollywood,A lonely writer develops an emotional relationship with an AI operating system.
+Zootopia,Romantic,Snowy,Weekend,2016,Hollywood,A rookie bunny cop and a fox con artist solve a mystery in a vibrant animal city.
+Kal Ho Naa Ho,Happy,Snowy,Weekday,2003,Bollywood,A terminally ill man secretly plays matchmaker for his friend and her neighbor.
+Catch Me If You Can,Melancholic,Rainy,Weekday,2002,Hollywood,A young con artist evades capture while forging checks and impersonating professionals.
+Her,Excited,Cloudy,Weekday,2013,Hollywood,A lonely writer develops an emotional relationship with an AI operating system.
+The Revenant,Happy,Snowy,Weekend,2015,Hollywood,A frontiersman seeks survival and revenge after a brutal bear attack.
+Yeh Jawaani Hai Deewani,Melancholic,Cloudy,Weekend,2013,Bollywood,A carefree man reconnects with an old flame, rekindling dreams and romance.
+Forrest Gump,Happy,Rainy,Weekend,1994,Hollywood,A man with a pure heart experiences decades of American history through love and chance.
+Aashiqui 2,Happy,Snowy,Weekday,2013,Bollywood,A fading singer mentors a talented young woman, leading to love and tragedy amidst fame.
+MS Dhoni,Melancholic,Cloudy,Weekend,2016,Bollywood,A small-town cricketer rises to become India’s legendary cricket captain.
+Bahubali,Happy,Rainy,Weekend,2015,Bollywood,A young warrior uncovers his royal heritage and battles to reclaim his kingdom.
+Your Name,Melancholic,Cloudy,Weekday,2016,Hollywood,Two teenagers mysteriously swap bodies, uncovering a deeper connection.
+Gully Boy,Melancholic,Cloudy,Weekend,2019,Bollywood,A Mumbai slum dweller rises to fame as a rapper, defying societal constraints.
+Mission: Impossible – Dead Reckoning,Happy,Rainy,Weekday,2023,Hollywood,A spy races to secure a dangerous technology threatening global security.
+The Flash,Romantic,Cloudy,Weekend,2023,Hollywood,A superhero races through time to alter the past, facing unforeseen consequences.
+Avengers: Endgame,Melancholic,Sunny,Weekday,2019,Hollywood,Superheroes unite to reverse a cosmic catastrophe and restore balance to the universe.
+3 Idiots,Relaxed,Cloudy,Weekday,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+Your Name,Happy,Cloudy,Weekend,2016,Hollywood,Two teenagers mysteriously swap bodies, uncovering a deeper connection.
+Rockstar,Happy,Snowy,Weekend,2011,Bollywood,A college student’s heartbreak fuels his rise to fame as a passionate musician.
+Slumdog Millionaire,Relaxed,Snowy,Weekend,2008,Hollywood,A Mumbai teen’s life flashes back as he answers questions on a game show.
+Tanu Weds Manu,Excited,Rainy,Weekday,2011,Bollywood,A shy doctor falls for a rebellious woman in an unexpected arranged marriage.
+Barbie,Romantic,Snowy,Weekend,2023,Hollywood,A doll embarks on a whimsical journey from her perfect world to the real one, discovering identity and purpose.
+Forrest Gump,Romantic,Cloudy,Weekday,1994,Hollywood,A man with a pure heart experiences decades of American history through love and chance.
+Kal Ho Naa Ho,Melancholic,Sunny,Weekend,2003,Bollywood,A terminally ill man secretly plays matchmaker for his friend and her neighbor.
+Kabir Singh,Happy,Cloudy,Weekday,2019,Bollywood,A brilliant but volatile surgeon spirals into self-destruction after a failed romance.
+The Shawshank Redemption,Melancholic,Sunny,Weekday,1994,Hollywood,A wrongly convicted man forms a bond with a fellow inmate, holding onto hope.
+Aashiqui 2,Happy,Snowy,Weekend,2013,Bollywood,A fading singer mentors a talented young woman, leading to love and tragedy amidst fame.
+Dear Zindagi,Happy,Snowy,Weekend,2016,Bollywood,A young cinematographer learns to embrace life through therapy and personal connections.
+Coco,Happy,Sunny,Weekend,2017,Hollywood,A boy ventures into the Land of the Dead to uncover his family’s musical legacy.
+Good Will Hunting,Happy,Snowy,Weekend,1997,Hollywood,A troubled genius janitor finds purpose through therapy and mentorship.
+The Flash,Melancholic,Snowy,Weekend,2023,Hollywood,A superhero races through time to alter the past, facing unforeseen consequences.
+Manmarziyaan,Adventurous,Snowy,Weekend,2018,Bollywood,A free-spirited woman navigates a love triangle between passion and stability.
+Kabir Singh,Melancholic,Snowy,Weekend,2019,Bollywood,A brilliant but volatile surgeon spirals into self-destruction after a failed romance.
+Uri,Happy,Cloudy,Weekend,2019,Bollywood,A soldier leads a covert operation to avenge a terrorist attack on Indian forces.
+The Pursuit of Happyness,Melancholic,Cloudy,Weekend,2006,Hollywood,A struggling salesman perseveres to provide a better life for his son.
+A Beautiful Mind,Happy,Snowy,Weekend,2001,Hollywood,A brilliant mathematician battles schizophrenia while making groundbreaking contributions to game theory.
+Veer-Zaara,Adventurous,Snowy,Weekend,2004,Bollywood,An Indian pilot and a Pakistani woman fight for their forbidden love.
+The King’s Speech,Happy,Snowy,Weekday,2010,Hollywood,A stuttering king overcomes his fears with help from an unorthodox therapist.
+Veer-Zaara,Relaxed,Cloudy,Weekend,2004,Bollywood,An Indian pilot and a Pakistani woman fight for their forbidden love.
+3 Idiots,Excited,Snowy,Weekend,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+Chak De! India,Happy,Cloudy,Weekend,2007,Bollywood,A disgraced hockey coach leads India’s women’s team to victory, overcoming prejudice.
+Encanto,Melancholic,Rainy,Weekend,2021,Hollywood,A young woman discovers her unique gift to save her family’s magical legacy.
+Raazi,Relaxed,Rainy,Weekend,2018,Bollywood,A young Indian woman becomes a spy in Pakistan during a tense conflict.
+Tenet,Romantic,Sunny,Weekend,2020,Hollywood,A secret agent manipulates time to prevent a catastrophic global event.
+Gully Boy,Romantic,Rainy,Weekend,2019,Bollywood,A Mumbai slum dweller rises to fame as a rapper, defying societal constraints.
+Dune: Part One,Happy,Cloudy,Weekend,2021,Hollywood,A young noble navigates a desert planet’s dangers to secure a valuable resource.
+The Pursuit of Happyness,Relaxed,Rainy,Weekday,2006,Hollywood,A struggling salesman perseveres to provide a better life for his son.
+Manmarziyaan,Relaxed,Cloudy,Weekend,2018,Bollywood,A free-spirited woman navigates a love triangle between passion and stability.
+Titanic,Adventurous,Cloudy,Weekend,1997,Hollywood,A romance blossoms aboard a doomed ship, leading to tragedy and sacrifice.
+La La Land,Happy,Rainy,Weekday,2016,Hollywood,An aspiring actress and a jazz musician chase dreams and love in Los Angeles.
+The Dark Knight,Romantic,Snowy,Weekday,2008,Hollywood,A vigilante hero faces a chaotic criminal mastermind threatening Gotham.
+The Menu,Melancholic,Snowy,Weekend,2022,Hollywood,A couple attends an exclusive dining experience that turns darkly surreal.
+Oppenheimer,Happy,Sunny,Weekday,2023,Hollywood,A physicist leads the development of the atomic bomb during World War II.
+A Beautiful Mind,Melancholic,Rainy,Weekday,2001,Hollywood,A brilliant mathematician battles schizophrenia while making groundbreaking contributions to game theory.
+Kabir Singh,Relaxed,Rainy,Weekday,2019,Bollywood,A brilliant but volatile surgeon spirals into self-destruction after a failed romance.
+Uri,Adventurous,Sunny,Weekday,2019,Bollywood,A soldier leads a covert operation to avenge a terrorist attack on Indian forces.
+The Whale,Melancholic,Snowy,Weekday,2022,Hollywood,A reclusive teacher reconnects with his daughter while facing personal struggles.
+La La Land,Relaxed,Sunny,Weekend,2016,Hollywood,An aspiring actress and a jazz musician chase dreams and love in Los Angeles.
+Tenet,Melancholic,Cloudy,Weekday,2020,Hollywood,A secret agent manipulates time to prevent a catastrophic global event.
+Yeh Jawaani Hai Deewani,Melancholic,Sunny,Weekday,2013,Bollywood,A carefree man reconnects with an old flame, rekindling dreams and romance.
+The Truman Show,Melancholic,Rainy,Weekday,1998,Hollywood,A man discovers his life is a staged reality show watched by millions.
+The Marvels,Adventurous,Sunny,Weekday,2023,Hollywood,Three superheroes team up to save the universe from a cosmic threat.
+The Curious Case of Benjamin Button,Romantic,Snowy,Weekday,2008,Hollywood,A man ages backward, experiencing love and life in reverse.
+Aashiqui 2,Adventurous,Sunny,Weekday,2013,Bollywood,A fading singer mentors a talented young woman, leading to love and tragedy amidst fame.
+Wake Up Sid,Adventurous,Sunny,Weekday,2009,Bollywood,A carefree college student discovers purpose and love through unexpected friendships.
+The Lion King,Romantic,Cloudy,Weekend,1994,Hollywood,A young lion prince reclaims his throne after tragedy and betrayal.
+Tanu Weds Manu,Romantic,Sunny,Weekend,2011,Bollywood,A shy doctor falls for a rebellious woman in an unexpected arranged marriage.
+Lagaan,Romantic,Snowy,Weekday,2001,Bollywood,Villagers in colonial India bet their future on a cricket match against British rulers.
+Kesari,Romantic,Cloudy,Weekend,2019,Bollywood,A Sikh soldier leads a small unit in a heroic stand against overwhelming odds.
+Joker,Romantic,Cloudy,Weekend,2019,Hollywood,A struggling comedian descends into madness, becoming a chaotic symbol of rebellion.
+Schindler’s List,Melancholic,Sunny,Weekday,1993,Hollywood,A businessman saves Jewish refugees during the Holocaust by employing them.
+The Godfather,Romantic,Rainy,Weekend,1972,Hollywood,A mafia patriarch passes power to his reluctant son amid family and rivalry.
+Bahubali,Romantic,Snowy,Weekday,2015,Bollywood,A young warrior uncovers his royal heritage and battles to reclaim his kingdom.
+The Prestige,Excited,Sunny,Weekend,2006,Hollywood,Rival magicians obsessively compete, spiraling into deception and tragedy.
+Highway,Excited,Sunny,Weekday,2014,Bollywood,A kidnapped woman finds freedom and self-discovery during a road trip with her captor.
+Gully Boy,Excited,Snowy,Weekday,2019,Bollywood,A Mumbai slum dweller rises to fame as a rapper, defying societal constraints.
+1917,Melancholic,Sunny,Weekend,2019,Hollywood,Two soldiers undertake a perilous mission to deliver a critical message during WWI.
+Encanto,Melancholic,Sunny,Weekend,2021,Hollywood,A young woman discovers her unique gift to save her family’s magical legacy.
+3 Idiots (Tamil Dubbed),Relaxed,Rainy,Weekday,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+Shutter Island,Relaxed,Cloudy,Weekday,2010,Hollywood,A U.S. Marshal investigates a mysterious disappearance at a remote asylum.
+Uri,Happy,Snowy,Weekend,2019,Bollywood,A soldier leads a covert operation to avenge a terrorist attack on Indian forces.
+Interstellar,Adventurous,Rainy,Weekday,2014,Hollywood,Astronauts travel through a wormhole to find a new home for humanity.
+3 Idiots (Tamil Dubbed),Melancholic,Sunny,Weekday,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+Jojo Rabbit,Adventurous,Rainy,Weekend,2019,Hollywood,A boy’s imaginary friend, a whimsical dictator, guides him through wartime absurdity.
+Chak De! India,Romantic,Cloudy,Weekday,2007,Bollywood,A disgraced hockey coach leads India’s women’s team to victory, overcoming prejudice.
+Lagaan,Melancholic,Snowy,Weekend,2001,Bollywood,Villagers in colonial India bet their future on a cricket match against British rulers.
+Rockstar,Romantic,Snowy,Weekday,2011,Bollywood,A college student’s heartbreak fuels his rise to fame as a passionate musician.
+Badhaai Ho,Romantic,Cloudy,Weekend,2018,Bollywood,A middle-aged couple faces societal shock when they unexpectedly become pregnant.
+The Lion King,Excited,Snowy,Weekend,1994,Hollywood,A young lion prince reclaims his throne after tragedy and betrayal.
+3 Idiots,Romantic,Snowy,Weekend,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+Forrest Gump,Relaxed,Rainy,Weekend,1994,Hollywood,A man with a pure heart experiences decades of American history through love and chance.
+Dune: Part One,Relaxed,Cloudy,Weekend,2021,Hollywood,A young noble navigates a desert planet’s dangers to secure a valuable resource.
+Spirited Away,Melancholic,Cloudy,Weekend,2001,Hollywood,A young girl navigates a magical world to save her parents from a curse.
+Lagaan,Relaxed,Cloudy,Weekday,2001,Bollywood,Villagers in colonial India bet their future on a cricket match against British rulers.
+The Marvels,Romantic,Rainy,Weekday,2023,Hollywood,Three superheroes team up to save the universe from a cosmic threat.
+Schindler’s List,Romantic,Rainy,Weekend,1993,Hollywood,A businessman saves Jewish refugees during the Holocaust by employing them.
+Ek Tha Tiger,Relaxed,Rainy,Weekday,2012,Bollywood,An Indian spy falls in love while on a high-stakes mission against a rival agent.
+Schindler’s List,Excited,Rainy,Weekday,1993,Hollywood,A businessman saves Jewish refugees during the Holocaust by employing them.
+Knives Out,Happy,Snowy,Weekend,2019,Hollywood,A detective unravels a wealthy family’s secrets after a patriarch’s mysterious death.
+Titanic,Romantic,Cloudy,Weekday,1997,Hollywood,A romance blossoms aboard a doomed ship, leading to tragedy and sacrifice.
+Hum Tum,Relaxed,Rainy,Weekend,2004,Bollywood,Two strangers evolve from rivals to lovers through chance encounters over years.
+Student of the Year,Romantic,Rainy,Weekday,2012,Bollywood,College rivals compete in a series of challenges, sparking friendships and romance.
+Raazi,Relaxed,Rainy,Weekend,2018,Bollywood,A young Indian woman becomes a spy in Pakistan during a tense conflict.
+Avengers: Endgame,Adventurous,Sunny,Weekend,2019,Hollywood,Superheroes unite to reverse a cosmic catastrophe and restore balance to the universe.
+Knives Out,Romantic,Cloudy,Weekend,2019,Hollywood,A detective unravels a wealthy family’s secrets after a patriarch’s mysterious death.
+The Truman Show,Adventurous,Sunny,Weekend,1998,Hollywood,A man discovers his life is a staged reality show watched by millions.
+The Social Network,Happy,Snowy,Weekday,2010,Hollywood,A college student creates a social media empire, facing betrayal and lawsuits.
+Dune: Part Two,Happy,Cloudy,Weekday,2024,Hollywood,A young leader unites tribes to fight for control of a desert planet’s future.
+The Social Network,Melancholic,Sunny,Weekend,2010,Hollywood,A college student creates a social media empire, facing betrayal and lawsuits.
+Avengers: Endgame,Excited,Sunny,Weekday,2019,Hollywood,Superheroes unite to reverse a cosmic catastrophe and restore balance to the universe.
+Hum Tum,Excited,Cloudy,Weekend,2004,Bollywood,Two strangers evolve from rivals to lovers through chance encounters over years.
+Slumdog Millionaire,Excited,Cloudy,Weekday,2008,Hollywood,A Mumbai teen’s life flashes back as he answers questions on a game show.
+Her,Excited,Sunny,Weekend,2013,Hollywood,A lonely writer develops an emotional relationship with an AI operating system.
+The Flash,Happy,Cloudy,Weekend,2023,Hollywood,A superhero races through time to alter the past, facing unforeseen consequences.
+1917,Melancholic,Snowy,Weekday,2019,Hollywood,Two soldiers undertake a perilous mission to deliver a critical message during WWI.
+Don’t Look Up,Excited,Cloudy,Weekend,2021,Hollywood,Astronomers struggle to warn the world about a comet on a collision course with Earth.
+Moana,Happy,Snowy,Weekend,2016,Hollywood,A young Polynesian girl sails across the ocean to save her island.
+No Time to Die,Melancholic,Sunny,Weekend,2021,Hollywood,A retired spy returns to face a global threat in a high-stakes mission.
+Spirited Away,Melancholic,Rainy,Weekday,2001,Hollywood,A young girl navigates a magical world to save her parents from a curse.
+Coco,Happy,Cloudy,Weekend,2017,Hollywood,A boy ventures into the Land of the Dead to uncover his family’s musical legacy.
+Badhaai Ho,Romantic,Rainy,Weekend,2018,Bollywood,A middle-aged couple faces societal shock when they unexpectedly become pregnant.
+Tanu Weds Manu,Excited,Rainy,Weekend,2011,Bollywood,A shy doctor falls for a rebellious woman in an unexpected arranged marriage.
+Dear Zindagi,Excited,Sunny,Weekday,2016,Bollywood,A young cinematographer learns to embrace life through therapy and personal connections.
+Forrest Gump,Adventurous,Snowy,Weekday,1994,Hollywood,A man with a pure heart experiences decades of American history through love and chance.
+The Prestige,Romantic,Sunny,Weekend,2006,Hollywood,Rival magicians obsessively compete, spiraling into deception and tragedy.
+Slumdog Millionaire,Romantic,Snowy,Weekday,2008,Hollywood,A Mumbai teen’s life flashes back as he answers questions on a game show.
+Dune: Part Two,Relaxed,Snowy,Weekend,2024,Hollywood,A young leader unites tribes to fight for control of a desert planet’s future.
+Kuch Kuch Hota Hai,Melancholic,Snowy,Weekend,1998,Bollywood,A widower’s daughter schemes to reunite him with his college sweetheart.
+The Shawshank Redemption,Adventurous,Snowy,Weekday,1994,Hollywood,A wrongly convicted man forms a bond with a fellow inmate, holding onto hope.
+The King’s Speech,Happy,Rainy,Weekend,2010,Hollywood,A stuttering king overcomes his fears with help from an unorthodox therapist.
+The Truman Show,Melancholic,Snowy,Weekend,1998,Hollywood,A man discovers his life is a staged reality show watched by millions.
+Highway,Romantic,Rainy,Weekday,2014,Bollywood,A kidnapped woman finds freedom and self-discovery during a road trip with her captor.
+The Matrix,Adventurous,Cloudy,Weekend,1999,Hollywood,A hacker discovers a simulated reality and joins a rebellion to free humanity.
+The Truman Show,Happy,Rainy,Weekend,1998,Hollywood,A man discovers his life is a staged reality show watched by millions.
+Oppenheimer,Excited,Snowy,Weekday,2023,Hollywood,A physicist leads the development of the atomic bomb during World War II.
+Tanu Weds Manu,Relaxed,Cloudy,Weekend,2011,Bollywood,A shy doctor falls for a rebellious woman in an unexpected arranged marriage.
+Soul,Happy,Sunny,Weekend,2020,Hollywood,A jazz musician’s soul embarks on a journey to find his life’s purpose.
+A Beautiful Mind,Happy,Rainy,Weekend,2001,Hollywood,A brilliant mathematician battles schizophrenia while making groundbreaking contributions to game theory.
+The Prestige,Happy,Rainy,Weekday,2006,Hollywood,Rival magicians obsessively compete, spiraling into deception and tragedy.
+Minions,Adventurous,Sunny,Weekday,2015,Hollywood,Mischievous yellow creatures serve a villain in a comedic quest for supremacy.
+The Lunchbox,Excited,Sunny,Weekend,2013,Bollywood,A mistaken lunch delivery sparks an unexpected connection between two strangers.
+Top Gun: Maverick,Relaxed,Sunny,Weekend,2022,Hollywood,A veteran pilot trains a new generation for a high-stakes mission.
+Aashiqui 2,Adventurous,Sunny,Weekday,2013,Bollywood,A fading singer mentors a talented young woman, leading to love and tragedy amidst fame.
+The Flash,Melancholic,Sunny,Weekend,2023,Hollywood,A superhero races through time to alter the past, facing unforeseen consequences.
+Secret Superstar,Relaxed,Sunny,Weekday,2017,Bollywood,A teenage girl pursues her singing dreams under the constraints of a conservative family.
+Taare Zameen Par,Romantic,Cloudy,Weekday,2007,Bollywood,A dyslexic child finds his potential through an inspiring art teacher.
+Encanto,Relaxed,Cloudy,Weekday,2021,Hollywood,A young woman discovers her unique gift to save her family’s magical legacy.
+Titanic,Happy,Rainy,Weekend,1997,Hollywood,A romance blossoms aboard a doomed ship, leading to tragedy and sacrifice.
+Student of the Year,Adventurous,Cloudy,Weekend,2012,Bollywood,College rivals compete in a series of challenges, sparking friendships and romance.
+Zootopia,Relaxed,Snowy,Weekday,2016,Hollywood,A rookie bunny cop and a fox con artist solve a mystery in a vibrant animal city.
+The Revenant,Excited,Sunny,Weekend,2015,Hollywood,A frontiersman seeks survival and revenge after a brutal bear attack.
+Inception,Relaxed,Rainy,Weekend,2010,Hollywood,A thief infiltrates dreams to steal secrets, facing a mind-bending heist.
+The Flash,Relaxed,Sunny,Weekend,2023,Hollywood,A superhero races through time to alter the past, facing unforeseen consequences.
+Shutter Island,Happy,Rainy,Weekend,2010,Hollywood,A U.S. Marshal investigates a mysterious disappearance at a remote asylum.
+3 Idiots,Happy,Snowy,Weekday,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+Badhaai Ho,Melancholic,Cloudy,Weekend,2018,Bollywood,A middle-aged couple faces societal shock when they unexpectedly become pregnant.
+Her,Melancholic,Cloudy,Weekday,2013,Hollywood,A lonely writer develops an emotional relationship with an AI operating system.
+Whiplash,Adventurous,Sunny,Weekday,2014,Hollywood,A young drummer pushes his limits under a relentless music instructor.
+MS Dhoni,Excited,Rainy,Weekend,2016,Bollywood,A small-town cricketer rises to become India’s legendary cricket captain.
+Ae Dil Hai Mushkil,Relaxed,Sunny,Weekend,2016,Bollywood,A tale of unrequited love and heartbreak unfolds among three friends.
+The Godfather,Happy,Sunny,Weekend,1972,Hollywood,A mafia patriarch passes power to his reluctant son amid family and rivalry.
+The Godfather,Relaxed,Sunny,Weekend,1972,Hollywood,A mafia patriarch passes power to his reluctant son amid family and rivalry.
+The Lion King,Relaxed,Sunny,Weekend,1994,Hollywood,A young lion prince reclaims his throne after tragedy and betrayal.
+The Truman Show,Adventurous,Sunny,Weekend,1998,Hollywood,A man discovers his life is a staged reality show watched by millions.
+Ae Dil Hai Mushkil,Melancholic,Snowy,Weekday,2016,Bollywood,A tale of unrequited love and heartbreak unfolds among three friends.
+Shutter Island,Relaxed,Snowy,Weekend,2010,Hollywood,A U.S. Marshal investigates a mysterious disappearance at a remote asylum.
+The Lunchbox,Excited,Rainy,Weekday,2013,Bollywood,A mistaken lunch delivery sparks an unexpected connection between two strangers.
+Life of Pi,Happy,Sunny,Weekend,2012,Hollywood,A young man survives a shipwreck, sharing a lifeboat with a Bengal tiger.
+The Lion King,Relaxed,Cloudy,Weekend,1994,Hollywood,A young lion prince reclaims his throne after tragedy and betrayal.
+Spirited Away,Happy,Sunny,Weekend,2001,Hollywood,A young girl navigates a magical world to save her parents from a curse.
+Avengers: Endgame,Excited,Sunny,Weekday,2019,Hollywood,Superheroes unite to reverse a cosmic catastrophe and restore balance to the universe.
+Swades,Melancholic,Snowy,Weekday,2004,Bollywood,An NRI returns to India to improve his village, rediscovering his roots.
+Bahubali,Adventurous,Rainy,Weekend,2015,Bollywood,A young warrior uncovers his royal heritage and battles to reclaim his kingdom.
+The Theory of Everything,Relaxed,Snowy,Weekend,2014,Hollywood,A physicist’s love story unfolds as he battles a debilitating disease.
+Top Gun: Maverick,Romantic,Rainy,Weekday,2022,Hollywood,A veteran pilot trains a new generation for a high-stakes mission.
+Ek Tha Tiger,Happy,Rainy,Weekend,2012,Bollywood,An Indian spy falls in love while on a high-stakes mission against a rival agent.
+A Beautiful Mind,Romantic,Snowy,Weekend,2001,Hollywood,A brilliant mathematician battles schizophrenia while making groundbreaking contributions to game theory.
+Titanic,Relaxed,Cloudy,Weekend,1997,Hollywood,A romance blossoms aboard a doomed ship, leading to tragedy and sacrifice.
+Kesari,Melancholic,Sunny,Weekend,2019,Bollywood,A Sikh soldier leads a small unit in a heroic stand against overwhelming odds.
+Dune: Part One,Adventurous,Snowy,Weekday,2021,Hollywood,A young noble navigates a desert planet’s dangers to secure a valuable resource.
+The Social Network,Excited,Cloudy,Weekend,2010,Hollywood,A college student creates a social media empire, facing betrayal and lawsuits.
+Toy Story,Romantic,Cloudy,Weekend,1995,Hollywood,A cowboy doll and a space ranger toy team up to return to their owner.
+Shutter Island,Excited,Cloudy,Weekend,2010,Hollywood,A U.S. Marshal investigates a mysterious disappearance at a remote asylum.
+Good Will Hunting,Excited,Sunny,Weekend,1997,Hollywood,A troubled genius janitor finds purpose through therapy and mentorship.
+Inception,Melancholic,Cloudy,Weekend,2010,Hollywood,A thief infiltrates dreams to steal secrets, facing a mind-bending heist.
+The Lunchbox,Happy,Rainy,Weekday,2013,Bollywood,A mistaken lunch delivery sparks an unexpected connection between two strangers.
+The King’s Speech,Happy,Rainy,Weekday,2010,Hollywood,A stuttering king overcomes his fears with help from an unorthodox therapist.
+Wake Up Sid,Happy,Cloudy,Weekday,2009,Bollywood,A carefree college student discovers purpose and love through unexpected friendships.
+Forrest Gump,Adventurous,Snowy,Weekend,1994,Hollywood,A man with a pure heart experiences decades of American history through love and chance.
+Don’t Look Up,Adventurous,Rainy,Weekday,2021,Hollywood,Astronomers struggle to warn the world about a comet on a collision course with Earth.
+Ae Dil Hai Mushkil,Relaxed,Sunny,Weekend,2016,Bollywood,A tale of unrequited love and heartbreak unfolds among three friends.
+Veer-Zaara,Excited,Cloudy,Weekday,2004,Bollywood,An Indian pilot and a Pakistani woman fight for their forbidden love.
+RRR,Melancholic,Snowy,Weekend,2022,Bollywood,Two Indian revolutionaries forge a bond to fight British colonial rule.
+The Northman,Melancholic,Snowy,Weekend,2022,Hollywood,A Viking prince seeks vengeance for his father’s murder in a brutal saga.
+Dune: Part Two,Romantic,Snowy,Weekend,2024,Hollywood,A young leader unites tribes to fight for control of a desert planet’s future.
+The Godfather,Relaxed,Rainy,Weekday,1972,Hollywood,A mafia patriarch passes power to his reluctant son amid family and rivalry.
+3 Idiots,Excited,Sunny,Weekend,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+Oppenheimer,Happy,Sunny,Weekday,2023,Hollywood,A physicist leads the development of the atomic bomb during World War II.
+Your Name,Relaxed,Snowy,Weekday,2016,Hollywood,Two teenagers mysteriously swap bodies, uncovering a deeper connection.
+The Menu,Relaxed,Cloudy,Weekend,2022,Hollywood,A couple attends an exclusive dining experience that turns darkly surreal.
+The Boy and the Heron,Adventurous,Snowy,Weekday,2023,Hollywood,A boy embarks on a fantastical journey to cope with grief and loss.
+MS Dhoni,Romantic,Snowy,Weekend,2016,Bollywood,A small-town cricketer rises to become India’s legendary cricket captain.
+Rockstar,Adventurous,Sunny,Weekday,2011,Bollywood,A college student’s heartbreak fuels his rise to fame as a passionate musician.
+The Boy and the Heron,Happy,Snowy,Weekend,2023,Hollywood,A boy embarks on a fantastical journey to cope with grief and loss.
+3 Idiots (Tamil Dubbed),Romantic,Sunny,Weekday,2009,Bollywood,Three college friends navigate academic pressures and personal dreams in a journey of self-discovery.
+Tanu Weds Manu,Relaxed,Cloudy,Weekday,2011,Bollywood,A shy doctor falls for a rebellious woman in an unexpected arranged marriage.
+Student of the Year,Relaxed,Cloudy,Weekday,2012,Bollywood,College rivals compete in a series of challenges, sparking friendships and romance.
+Ek Tha Tiger,Melancholic,Cloudy,Weekend,2012,Bollywood,An Indian spy falls in love while on a high-stakes mission against a rival agent.
+Jojo Rabbit,Melancholic,Cloudy,Weekend,2019,Hollywood,A boy’s imaginary friend, a whimsical dictator, guides him through wartime absurdity.
+Oppenheimer,Excited,Snowy,Weekday,2023,Hollywood,A physicist leads the development of the atomic bomb during World War II.
+Frozen,Happy,Sunny,Weekday,2013,Hollywood,A fearless princess embarks on a quest to save her kingdom from eternal winter.
+Zootopia,Romantic,Rainy,Weekday,2016,Hollywood,A rookie bunny cop and a fox con artist solve a mystery in a vibrant animal city.
+Good Will Hunting,Relaxed,Sunny,Weekday,1997,Hollywood,A troubled genius janitor finds purpose through therapy and mentorship.
+The Pursuit of Happyness,Relaxed,Snowy,Weekend,2006,Hollywood,A struggling salesman perseveres to provide a better life for his son.
+Whiplash,Romantic,Rainy,Weekend,2014,Hollywood,A young drummer pushes his limits under a relentless music instructor.
+Tenet,Happy,Cloudy,Weekday,2020,Hollywood,A secret agent manipulates time to prevent a catastrophic global event.
+The Lion King,Excited,Rainy,Weekday,1994,Hollywood,A young lion prince reclaims his throne after tragedy and betrayal.
+The King’s Speech,Romantic,Sunny,Weekday,2010,Hollywood,A stuttering king overcomes his fears with help from an unorthodox therapist.
